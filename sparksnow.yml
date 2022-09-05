@@ -1,0 +1,6 @@
+type: 'notebook'
+language: 'python'
+source: 'pyspark'
+destination: 'snowpark'
+feed: 'C:\Users\abhipaul\PycharmProjects\pyspark_snowpark_converter\spark.py'
+out : 'C:\Users\abhipaul\PycharmProjects\pyspark_snowpark_converter\snowpark.py'
